@@ -1,0 +1,4 @@
+resources:
+  - crd/webpage-crd.yaml
+  - manager/manager.yaml
+  - samples/webpage-cr.yaml
