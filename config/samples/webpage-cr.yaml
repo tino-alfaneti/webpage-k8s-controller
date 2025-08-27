@@ -2,7 +2,7 @@ apiVersion: example.web.io/v1
 kind: WebPage
 metadata:
   name: test-webpage
-  namespace: default
+  namespace: local-ns
 spec:
   image: nginx
   content: this is a test
